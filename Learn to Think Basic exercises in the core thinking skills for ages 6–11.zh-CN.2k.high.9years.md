@@ -135,11 +135,19 @@ John Langrehr
 
 记住缩写 **SCUMPS**，每个字母都帮你问自己：为什么它有 大小（Size）、颜色（Colour）、用途（Use）、材料（Material）、部件（Parts）和 形状（Shape），而不是其他可能？试试看：选一样东西，用 SCUMPS 问自己每个问题。
 
-| Example Object  | Properties                          | Reasons for properties              |
-| --------------- | ----------------------------------- | ----------------------------------- |
-| brick           | rough                               | cement sticks to its surface easily |
-| heavy           | wind won't blow it away             |                                     |
-| geometric shape | easy to stack on each other in rows |                                     |
+| Example Object | Properties      | Reasons for properties              |
+| -------------- | --------------- | ----------------------------------- |
+| brick          | rough           | cement sticks to its surface easily |
+|                | heavy           | wind won't blow it away             |
+|                | geometric shape | easy to stack on each other in rows |
+|                |                 |                                     |
+
+
+| 物品  | 属性     | 具备属性的原因/用意    |
+| --- | ------ | ------------- |
+| 砖块  | 表面粗糙   | 水泥可以轻松的粘到砖块表面 |
+|     | 比较沉    | 风不容易吹走        |
+|     | 形状是长方体 | 容易摞起来         |
 
 ## 学生练习单
 
@@ -210,7 +218,7 @@ John Langrehr
 * 为什么它要有这样的大小、颜色、用途、材料、部件和形状，而不是别的？
 
 
-# Observing Similarities
+# 观察相似点
 
 * 你想过两个或更多东西有什么相同之处吗？
 
