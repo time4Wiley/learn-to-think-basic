@@ -1,0 +1,7 @@
+Found structure:
+
+📁 组织性思维（整理信息）&#x20;
+
+✅ 组织完成！输出目录：organized_content
+📁 创建了 1 个部分文件夹
+📄 创建了 0 个章节文件夹
