@@ -1,0 +1,125 @@
+= Learn to Think Basic: Core Thinking Skills for Ages 6–11
+John Langrehr
+:doctype: book
+:toc:
+:toclevels: 2
+:outlinelevels: 3
+:imagesdir: images
+:front-cover-image: image:cover.png[Front Cover,1050,1600]
+:epub-chapter-level: 1
+:lang: en
+:uuid: urn:uuid:550e8400-e29b-41d4-a716-446655440000
+:producer: Learn to Think Publishing
+:creator: John Langrehr
+:copyright: © 2008 John Langrehr
+:description: Basic exercises in the core thinking skills for ages 6–11. This book provides practical exercises to help children develop organizational, analytical, evaluative, and creative thinking skills.
+:keywords: thinking skills, education, cognitive development, critical thinking, creative thinking, children, learning
+:revdate: 2008
+:source: Learn to Think Basic exercises in the core thinking skills for ages 6–11
+
+// TTS voice configuration - Alloy voice for main content
+:tts-voice: alloy
+:tts-config: <voice name="alloy" engine="openai" priority="100" gender="neutral"/>
+
+// Chapter introductions use Echo voice for variety
+:tts-chapter-voice: echo
+
+[dedication]
+== Dedication
+
+[role="tts-voice-alloy"]
+This book is dedicated to all the young minds who are eager to learn how to think more effectively and creatively.
+
+[preface]
+== Introduction
+
+[role="tts-voice-alloy"]
+Pupils need to be taught content to think about. They also need to be taught thinking processes which they can use to think about this content. In other words, they need to learn some good questions to ask themselves when thinking about content in different ways. 'Metacognition' (thinking about thinking) empowers them, giving them a wide repertoire of useable cognitive tools. 
+
+[role="tts-voice-alloy"]
+Curriculum planners assume that students learn these processes quite naturally, but research shows that this is not so. We regularly use about twenty basic or **core thinking processes** to connect and make sense of information. These are listed on the contents page. The exercises in this book allow pupils to practise these processes and to learn the questions that are useful to ask themselves when they use them.
+
+[role="tts-voice-alloy"]
+The thinking processes in the book are related to organisational, analytical, critical or **evaluative** and **creative thinking**. The content covered involves mathematics, language, social studies, and science. Each lesson in the book starts with **introductory notes** (the first page of the lesson) for teachers to discuss with pupils. This page also includes an example for the teacher to work through as an explanation about what is wanted in the exercise which will follow. When the thinking process is understood, pupils can work through the items on their photocopied **student** worksheets. Some **suggested answers** are then provided. And finally, some useful questions for pupils to ask themselves when thinking in the different ways is provided at the end of most exercises. Teachers can share these with pupils to note down at the end of their own worksheets. The lists of processing questions can be thought of as mental thinking programs for comparing, categorising, distinguishing facts from opinions, generalising, and so on. This book provides enough exercises for it to be used as the basis of a thinking skills programme for pupils in about the ages of 6–11.
+
+[role="tts-voice-alloy"]
+John Langrehr
+
+= Part I: Organizational Thinking
+
+[role="tts-voice-echo"]
+Welcome to Part One of Learn to Think Basic. In this section, we'll explore organizational thinking skills that help you observe, compare, and categorize the world around you. These fundamental skills form the foundation for all other types of thinking.
+
+include::chapters/01-observing-properties.adoc[]
+
+include::chapters/02-observing-similarities.adoc[]
+
+include::chapters/03-observing-differences.adoc[]
+
+include::chapters/04-categorising.adoc[]
+
+include::chapters/05-comparing.adoc[]
+
+include::chapters/06-ordering-size-time.adoc[]
+
+include::chapters/07-thinking-concepts.adoc[]
+
+include::chapters/08-generalising.adoc[]
+
+include::chapters/09-concept-maps.adoc[]
+
+= Part II: Analytical Thinking
+
+[role="tts-voice-echo"]
+Now we move to Part Two, where we'll learn analytical thinking skills. These skills help you break down complex information, understand relationships, and recognize patterns. Analytical thinking is essential for solving problems and making sense of data.
+
+include::chapters/10-analysing-relationships.adoc[]
+
+include::chapters/11-analysing-patterns.adoc[]
+
+= Part III: Evaluative Thinking
+
+[role="tts-voice-echo"]
+Part Three focuses on evaluative thinking, also known as critical thinking. These skills help you assess information, distinguish facts from opinions, make decisions, and consider different viewpoints. These are crucial skills for navigating our information-rich world.
+
+include::chapters/12-facts-opinions.adoc[]
+
+include::chapters/13-definite-indefinite.adoc[]
+
+include::chapters/14-reliability-claims.adoc[]
+
+include::chapters/15-relevant-irrelevant.adoc[]
+
+include::chapters/16-decision-making.adoc[]
+
+include::chapters/17-viewpoints.adoc[]
+
+include::chapters/18-better-questions.adoc[]
+
+= Part IV: Creative Thinking
+
+[role="tts-voice-echo"]
+Finally, Part Four explores creative thinking skills. These exercises will help you think outside the box, generate new ideas, and approach problems from unexpected angles. Creative thinking is what transforms good ideas into great innovations.
+
+include::chapters/19-creative-consequences.adoc[]
+
+include::chapters/20-reverse-thinking.adoc[]
+
+include::chapters/21-creative-designs.adoc[]
+
+include::chapters/22-random-objects.adoc[]
+
+include::chapters/23-visual-creativity.adoc[]
+
+include::chapters/24-creative-uses.adoc[]
+
+[appendix]
+== About the Author
+
+[role="tts-voice-alloy"]
+John Langrehr is an educational consultant specializing in thinking skills development. He has extensive experience in creating practical educational materials that help children develop critical and creative thinking abilities.
+
+[index]
+== Index
+
+// Index will be generated automatically during epub generation

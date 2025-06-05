@@ -1,0 +1,239 @@
+= Chapter 1: Observing Properties
+
+[role="tts-voice-echo"]
+Chapter One: Observing Properties
+
+[role="tts-voice-alloy"]
+Everything about us made by human beings or by nature has a design. The design or composition of any given thing is special and is that way for a particular reason. Bottles don't just happen to be made of glass rather than other materials. Stop lights don't just happen to be red rather than other colours. And trees don't just happen to have thousands of leaves rather than 10 or 20.
+
+[role="tts-voice-alloy"]
+We say that the design of a given thing fits a particular purpose. We all see things but we usually don't ask ourselves why something has the design that it does, rather than some other design.
+
+[role="tts-voice-alloy"]
+Lesson 1 gets you looking at things more carefully or thoughtfully. If you look at, and think about, the world about you, life will become so much more interesting. You will begin to understand why creators designed things the way they did.
+
+[role="tts-voice-alloy"]
+To help you focus on the properties of something you are observing remember the acronym **SCUMPS**. Each letter of this word helps you to ask yourself why something has the Size, Colour, Use, Material, Parts, and Shape that it does, rather than other possibilities.
+
+== Example
+
+[role="tts-voice-alloy"]
+Let's look at an example using a brick:
+
+[cols="1,1,2"]
+|===
+|Example Object |Properties |Reasons for properties
+
+|brick
+|rough
+|cement sticks to its surface easily
+
+|
+|heavy
+|wind won't blow it away
+
+|
+|geometric shape
+|easy to stack on each other in rows
+|===
+
+== Student Worksheet
+
+[role="tts-voice-alloy"]
+After each property write in a reason why you think the thing has this property.
+
+[cols="1,1,2"]
+|===
+|Object |Properties |Reasons for properties
+
+|coin
+|-
+|-
+
+|
+|-
+|
+
+|
+|-
+|
+
+|flag
+|-
+|-
+
+|
+|-
+|
+
+|
+|-
+|
+
+|tree
+|-
+|-
+
+|
+|-
+|
+
+|
+|-
+|
+
+|
+|-
+|
+
+|car tyre
+|-
+|-
+
+|
+|-
+|
+
+|a bottle
+|-
+|-
+
+|
+|-
+|
+
+|
+|-
+|
+
+|a football
+|-
+|-
+
+|
+|-
+|
+
+|
+|-
+|
+|===
+
+[role="tts-voice-alloy"]
+Write in three properties that you have noticed for each of the following things.
+
+=== Useful questions to ask myself when OBSERVING
+
+[role="tts-voice-alloy"]
+Think about what questions might help you observe things better.
+
+== Possible Answers
+
+[role="tts-voice-alloy"]
+Here are some example answers to help guide your thinking:
+
+[cols="1,1,2"]
+|===
+|Object |Properties |Reasons for properties
+
+|coin
+|round
+|easy to handle/store
+
+|
+|metallic
+|won't bend easily
+
+|
+|thin
+|light
+
+|
+|face
+|country's history
+
+|flag
+|coloured
+|easy to see
+
+|
+|patterned
+|represents people
+
+|
+|made of cloth
+|difficult to tear
+
+|
+|rectangular
+|easy to make
+
+|tree
+|leaves
+|take in gases
+
+|
+|roots
+|keep tree stable
+
+|
+|round trunk
+|provide strength
+
+|
+|upright
+|to reach for sunlight
+
+|car tyre
+|round
+|smooth to roll
+
+|
+|rubber
+|flexible
+
+|
+|hollow
+|for flexing
+
+|
+|grooved
+|grip on road
+
+|a bottle
+|made of glass
+|easy to clean/see through
+
+|
+|round sides
+|for strength
+
+|
+|narrow neck
+|easy to pour
+
+|
+|flat bottom
+|easy to stand up
+
+|a football
+|made of leather
+|easy to catch/kick
+
+|
+|oval shape
+|easy to catch/kick, random bounce
+
+|
+|hollow
+|light, easy to kick
+|===
+
+=== Useful Questions To Ask When Observing
+
+[role="tts-voice-alloy"]
+Here are some helpful questions you can ask yourself:
+
+* What size, colour, use, material, parts, and shape (SCUMPS) does this thing have?
+
+* Why does this thing have this size, colour, use, material, parts, and shape rather than other sizes, colours, uses, materials, parts, and shapes?

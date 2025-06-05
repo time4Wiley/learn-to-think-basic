@@ -1,0 +1,155 @@
+= Chapter 12: Distinguishing Facts from Opinions
+
+[role="tts-voice-echo"]
+Chapter Twelve: Distinguishing Facts from Opinions
+
+[role="tts-voice-alloy"]
+When you read the newspaper or magazine, do you believe that every sentence is a fact?
+
+[role="tts-voice-alloy"]
+If you don't, how do you know which sentences are **facts** and which ones are **opinions**?
+
+[role="tts-voice-alloy"]
+This lesson helps you to learn some useful questions that critical thinkers use to identify facts from opinions.
+
+[role="tts-voice-alloy"]
+As you decide which of the following statements are facts and which ones are opinions, try to write down any questions you ask yourself when making each decision.
+
+[role="tts-voice-alloy"]
+Below is a useful list of questions to ask next time you want to distinguish facts from opinions in something you read.
+
+== Guidelines for Identifying Facts vs Opinions
+
+[role="tts-voice-alloy"]
+Here are some helpful guidelines:
+
+1. Does this sentence contain words such as **could**, **may**, **might**, **possibly**, **predict**, and **should**? (opinions)
+
+2. Could this statement be **proven experimentally** or **with evidence**? If yes – facts. If no - opinion.
+
+3. Is this statement by a reputable authority? (fact)
+
+4. Have the things in this statement actually happened or are they happening now? (facts)
+
+5. Does this statement relate to the feelings of someone? (opinion)
+
+6. Does this statement contain words like is, has, was, does? (fact)
+
+== Examples
+
+[role="tts-voice-alloy"]
+Let's look at these examples:
+
+The Prime Minister of the UK is a man. **fact**
+
+The Prime Minister of the UK should be a man. **opinion**
+
+== Student Worksheet
+
+[role="tts-voice-alloy"]
+Some sentences in newspapers or magazines are facts (F) and some are opinions (O). The sentences here are a mix of both kinds. Think about each sentence here and write in **F**, or **O** after each sentence.
+
+1. The sun is larger than the moon. ____
+
+2. Computers might become as small as molecules one day. ____
+
+3. The President of the USA in the year 2020 will be a man. ____
+
+4. The sun is more important to us than the moon. ____
+
+5. There will be a massive earthquake in China next year. ____
+
+6. Dogs make better pets than cats. ____
+
+7. Insects have six legs. ____
+
+8. We shouldn't produce electricity with nuclear reactors. ____
+
+9. We can produce electricity with nuclear reactors. ____
+
+10. Men make better pilots than women. ____
+
+11. People will live on the moon one day. ____
+
+12. It is safer to fly than drive on the roads. ____
+
+13. Science is more difficult than History. ____
+
+14. Everyone should have a computer. ____
+
+[role="tts-voice-alloy"]
+Now write down some silent questions you asked yourself that allowed you to decide whether something was a fact or whether it was an opinion. Share them with the group and make a list of good questions that will help you to distinguish facts from opinions in future.
+
+A statement is a fact if it:
+
+1. ________________________
+2. ________________________
+3. ________________________
+4. ________________________
+5. ________________________
+
+== Possible Answers
+
+[role="tts-voice-alloy"]
+Here are the answers:
+
+[cols="1,3,1"]
+|===
+|Number |Statement |Answer
+
+|1.
+|The sun is larger than the moon.
+|fact
+
+|2.
+|Computers might become as small as molecules one day.
+|opinion
+
+|3.
+|The President of the USA in the year 2020 will be a man.
+|opinion
+
+|4.
+|The sun is more important to us than the moon.
+|opinion
+
+|5.
+|There will be a massive earthquake in China next year.
+|opinion
+
+|6.
+|Dogs make better pets than cats.
+|opinion
+
+|7.
+|Insects have six legs.
+|fact
+
+|8.
+|We shouldn't produce electricity with nuclear reactors.
+|opinion
+
+|9.
+|We can produce electricity with nuclear reactors.
+|fact
+
+|10.
+|Men make better pilots than women.
+|opinion
+
+|11.
+|People will live on the moon one day.
+|opinion
+
+|12.
+|It is safer to fly than drive on the roads.
+|fact
+
+|13.
+|Science is more difficult than History.
+|opinion
+
+|14.
+|Everyone should have a computer.
+|opinion
+|===

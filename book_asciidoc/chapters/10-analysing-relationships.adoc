@@ -1,0 +1,299 @@
+= Chapter 10: Analysing Relationships
+
+[role="tts-voice-echo"]
+Chapter Ten: Analysing Relationships
+
+[role="tts-voice-alloy"]
+Putting together concepts is basic to thinking (Lessons 1-9). Pulling them apart (**analysis**) is just as vital. When faced with raw data or information, we have to break it down (**analyse**) it.
+
+[role="tts-voice-alloy"]
+The questions in this exercise are often found in intelligence tests.
+
+[role="tts-voice-alloy"]
+Good thinkers are quick to analyse the relationship between smaller things and the larger thing that they are part of.
+
+== Example 1
+
+[role="tts-voice-alloy"]
+Consider this relationship: Feathers are to a bird as scales are to what?
+
+[role="tts-voice-alloy"]
+In order to find the answer, we have to first find out, or analyse, how feathers and bird are related. How are feathers related to a bird? Answer: feathers cover the body of a bird. So to complete the relationship, we need to find what covers the body of a fish. The answer is scales.
+
+image::image-16.png[Feathers to bird relationship diagram]
+
+== Example 2
+
+[role="tts-voice-alloy"]
+Blue is to colour as eagle is to what?
+
+[role="tts-voice-alloy"]
+Blue is an **example** of a colour. Eagle is an **example** of a bird.
+
+image::image-17.png[Blue to colour relationship diagram]
+
+== Student Worksheet
+
+[role="tts-voice-alloy"]
+How is A related to B in each of the following? C must form this same relationship with D. When you figure out D, write it in on the given line.
+
+[cols="1,1,1,1,1,1,2"]
+|===
+|A |is to |B |as |C |is to |D
+
+|stomach
+|is to
+|food
+|as
+|lungs
+|are to
+|
+
+|triangle
+|is to
+|three
+|as
+|square
+|is to
+|
+
+|circle
+|is to
+|sphere
+|as
+|square
+|is to
+|
+
+|artist
+|is to
+|studio
+|as
+|judge
+|is to
+|
+
+|Sun
+|is to
+|star
+|as
+|Saturn
+|is to
+|
+
+|oak
+|is to
+|deciduous
+|as
+|pine
+|is to
+|
+
+|artery
+|is to
+|blood
+|as
+|nerve
+|is to
+|
+
+|president
+|is to
+|nation
+|as
+|mayor
+|is to
+|
+
+|retina
+|is to
+|eye
+|as
+|ventricle
+|is to
+|
+
+|heat
+|is to
+|energy
+|as
+|push
+|is to
+|
+
+|sing
+|is to
+|sang
+|as
+|ride
+|is to
+|
+
+|went
+|is to
+|verb
+|as
+|dog
+|is to
+|
+|===
+
+=== Useful questions to ask myself when ANALYSING RELATIONSHIPS
+
+[role="tts-voice-alloy"]
+Think about what questions help you understand how things are connected.
+
+== Possible Answers
+
+[role="tts-voice-alloy"]
+Here are the answers with explanations:
+
+[cols="1,1,1,1,1,1,2"]
+|===
+|A |is to |B |as |C |is to |D
+
+|stomach
+|is to
+|food
+|as
+|lungs
+|are to
+|air
+
+|(uses/absorbs food)
+|
+|
+|
+|(use air)
+|
+|
+
+|triangle
+|is to
+|three
+|as
+|square
+|is to
+|four
+
+|(has three sides)
+|
+|
+|
+|(has four sides)
+|
+|
+
+|circle
+|is to
+|sphere
+|as
+|square
+|is to
+|cube
+
+|(is a flat/2D sphere)
+|
+|
+|
+|(is a flat/2D cube)
+|
+|
+
+|artist
+|is to
+|studio
+|as
+|judge
+|is to
+|court
+
+|(works in a studio)
+|
+|
+|
+|(works in a court)
+|
+|
+
+|Sun
+|is to
+|star
+|as
+|Saturn
+|is to
+|planet
+
+|(example of a star)
+|
+|
+|
+|(example of a planet)
+|
+|
+
+|oak
+|is to
+|deciduous
+|as
+|pine
+|is to
+|evergreen
+
+|artery
+|is to
+|blood
+|as
+|nerve
+|is to
+|signal
+
+|president
+|is to
+|nation
+|as
+|mayor
+|is to
+|city
+
+|retina
+|is to
+|eye
+|as
+|ventricle
+|is to
+|heart
+
+|heat
+|is to
+|energy
+|as
+|push
+|is to
+|force
+
+|sing
+|is to
+|sang
+|as
+|ride
+|is to
+|rode
+
+|went
+|is to
+|verb
+|as
+|dog
+|is to
+|noun
+|===
+
+=== Useful questions to ask when ANALYSING RELATIONSHIPS
+
+[role="tts-voice-alloy"]
+Here are helpful questions for understanding relationships:
+
+* How is the second thing related to the first thing, e.g. size, colour, use, material, part, shape, example of..?
+
+* What is related to C, or the third thing, in this same way?
