@@ -1,0 +1,78 @@
+= Learn to Think: Basic Exercises in Core Thinking Skills
+:doctype: book
+:toc: left
+:toclevels: 3
+:sectnums:
+:chapter-label: Chapter
+:imagesdir: images
+:experimental:
+:source-highlighter: highlight.js
+
+[.lead]
+Core thinking skills exercises for ages 6-11
+
+[.text-right]
+_By John Langrehr_
+
+[abstract]
+--
+This book provides essential exercises to develop core thinking skills in children aged 6-11. It covers organizational, analytical, evaluative, and creative thinking through practical exercises and activities.
+
+[TTS]
+....
+Welcome to Learn to Think - a comprehensive guide to developing core thinking skills in children. This book will take you through various exercises designed to enhance organizational, analytical, evaluative, and creative thinking abilities. Let's begin this exciting journey of mental growth and development.
+....
+
+include::parts/00_introduction.adoc[]
+
+= Part 1: Organizational Thinking
+[TTS]
+....
+Welcome to Part One - Organizational Thinking. In this section, we'll explore how to observe, compare, classify, and organize information effectively. These skills form the foundation of structured thinking.
+....
+
+include::parts/organize_thinking/01_observe_features.adoc[]
+include::parts/organize_thinking/02_observe_similarities.adoc[]
+include::parts/organize_thinking/03_observe_differences.adoc[]
+include::parts/organize_thinking/04_classification.adoc[]
+include::parts/organize_thinking/05_comparison.adoc[]
+include::parts/organize_thinking/06_sorting_by_size_time.adoc[]
+include::parts/organize_thinking/07_thinking_concepts.adoc[]
+include::parts/organize_thinking/08_generalization.adoc[]
+include::parts/organize_thinking/09_concept_maps.adoc[]
+
+= Part 2: Analytical Thinking
+[TTS]
+....
+Welcome to Part Two - Analytical Thinking. Here we'll learn how to analyze relationships and patterns, developing crucial skills for understanding complex systems and sequences.
+....
+
+include::parts/analytical_thinking/10_analyze_relationships.adoc[]
+include::parts/analytical_thinking/11_analyze_sequence_patterns.adoc[]
+
+= Part 3: Evaluative Thinking
+[TTS]
+....
+Welcome to Part Three - Evaluative Thinking. In this section, we'll develop critical thinking skills, learning how to distinguish facts from opinions, evaluate information, and make better decisions.
+....
+
+include::parts/evaluative_thinking/12_distinguish_facts_opinions.adoc[]
+include::parts/evaluative_thinking/13_distinguish_certain_uncertain.adoc[]
+include::parts/evaluative_thinking/14_challenge_reliability.adoc[]
+include::parts/evaluative_thinking/15_distinguish_relevant_irrelevant.adoc[]
+include::parts/evaluative_thinking/16_decision_making.adoc[]
+include::parts/evaluative_thinking/17_consider_other_viewpoints.adoc[]
+include::parts/evaluative_thinking/18_better_questions.adoc[]
+
+= Part 4: Creative Thinking
+[TTS]
+....
+Welcome to Part Four - Creative Thinking. This final section will explore various aspects of creativity, from understanding consequences to visual creativity and innovative thinking about everyday objects.
+....
+
+include::parts/creative_thinking/19_creative_consequences.adoc[]
+include::parts/creative_thinking/20_reverse_creative_thinking.adoc[]
+include::parts/creative_thinking/21_analyze_creative_design.adoc[]
+include::parts/creative_thinking/22_random_object_creativity.adoc[]
+include::parts/creative_thinking/23_visual_creativity.adoc[]
+include::parts/creative_thinking/24_creative_thinking_about_uses.adoc[]

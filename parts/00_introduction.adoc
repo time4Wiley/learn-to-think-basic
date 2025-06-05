@@ -1,0 +1,99 @@
+= Introduction
+
+[TTS]
+....
+Welcome to the introduction of Learn to Think. In this section, we'll explore why thinking skills are essential and how this book will help develop them.
+....
+
+[.lead]
+Teaching children how to think is as important as teaching them what to think about.
+
+== The Importance of Teaching Thinking Skills
+
+[TTS]
+....
+Students need both content to think about and the thinking processes to analyze that content. Let's understand why these skills are crucial for young learners.
+....
+
+Students need two essential components in their education:
+
+1. Content to think about
+2. Thinking processes to analyze that content
+
+Most importantly, they need to learn good questions to ask themselves when thinking about content in different ways. This concept of 'metacognition' (thinking about thinking) empowers students by giving them a wide repertoire of useable cognitive tools.
+
+[NOTE]
+====
+While curriculum planners often assume that students naturally learn these processes, research shows this is not the case.
+====
+
+== Core Thinking Processes
+
+[TTS]
+....
+We regularly use about twenty basic thinking processes to connect and make sense of information. These core processes form the foundation of effective learning and problem-solving.
+....
+
+The book focuses on four main types of thinking:
+
+* Organizational Thinking
+* Analytical Thinking
+* Evaluative Thinking
+* Creative Thinking
+
+These processes cover various subjects including:
+
+* Mathematics
+* Language
+* Social Studies
+* Science
+
+== How to Use This Book
+
+[TTS]
+....
+Each lesson in this book follows a structured format designed to maximize learning. Let's understand how to use these lessons effectively.
+....
+
+Each lesson contains:
+
+1. *Introductory Notes* +
+The first page of each lesson contains notes for teachers to discuss with pupils.
+
+2. *Working Examples* +
+Teachers can work through these examples to demonstrate what is expected in the exercises.
+
+3. *Student Worksheets* +
+Once students understand the thinking process, they can work through the items on their worksheets.
+
+4. *Suggested Answers* +
+Guidelines for evaluating student responses.
+
+5. *Self-Reflection Questions* +
+Questions for pupils to ask themselves when thinking in different ways.
+
+[TIP]
+====
+The lists of processing questions can be thought of as mental thinking programs for comparing, categorizing, distinguishing facts from opinions, generalizing, and more.
+====
+
+== Age Appropriateness
+
+[TTS]
+....
+This book is specifically designed for children aged six to eleven years old, providing a comprehensive thinking skills program suitable for their developmental stage.
+....
+
+The exercises in this book are carefully crafted to:
+
+* Match the cognitive development of children aged 6-11
+* Build progressively more complex thinking skills
+* Engage students through age-appropriate examples
+* Encourage independent thinking and problem-solving
+
+[IMPORTANT]
+====
+This book provides enough exercises to serve as the foundation of a complete thinking skills program for primary school pupils.
+====
+
+_By John Langrehr_
